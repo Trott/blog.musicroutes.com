@@ -1,3 +1,11 @@
 ---
 layout: index
 ---
+<ul >
+    {% for post in site.posts limit:5 %}
+    <li>{{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url }}">Read more...</a>
+    </li>
+    {% endfor %}
+</ul>
