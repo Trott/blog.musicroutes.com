@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Art Garfunkel to Judas Priest (SMLP #10 Special Soft Rock To Metal Edition)'
+author:
+  display_name: Trott
+  login: admin
+  email: rtrott@gmail.com
+  url: http://musicroutes.com/
+author_login: admin
+author_email: rtrott@gmail.com
+author_url: http://musicroutes.com/
+wordpress_id: 536
+wordpress_url: http://blog.musicroutes.com/?p=536
+date: '2009-11-07 17:40:15 -0800'
+date_gmt: '2009-11-08 00:40:15 -0800'
+categories:
+- Saturday Morning Listening Party
+tags:
+- pink floyd
+- carmine appice
+- beach boys
+- art garfunkel
+- judas priest
+- bruce johnston
+- joan baez
+- russ kunkel
+- bob seger
+- bill payne
+- david gilmour
+- tony levin
+- tom scott
+- vanilla fudge
+- ronnie james dio
+- hear 'n aid
+- vinny appice
+- rob halford
+comments:
+- id: 357
+  author: 'Music Routes &raquo; Blog Archive &raquo; Carole King to Big Audio Dynamite
+    (SMLP #12: Special Flea-less Edition)'
+  author_email: ''
+  author_url: http://blog.musicroutes.com/?p=549
+  date: '2009-11-21 14:53:29 -0800'
+  date_gmt: '2009-11-21 21:53:29 -0800'
+  content: '[...] appeared in SMLP #10 where he connected Art Garfunkel to Bob Seger. 
+    Here, he connects Carole King to Stevie Nicks via [...]'
+---
+<p><img class="alignright" src="http://image.listen.com/img/170x170/6/4/0/5/1265046_170x170.jpg" alt="" width="170" height="170" />This week, we listened to the 1975 <strong>Art Garfunkel</strong> solo record <em>Breakaway</em> and the 1979 live <strong>Judas Priest</strong> platter <em>Unleashed In The East</em>.</p>
+<p><img class="alignright" style="clear: both" src="http://image.listen.com/img/170x170/9/6/8/6/1416869_170x170.jpg" alt="" width="170" height="170" /></p>
+<p>Garfunkel's record contains a cover of "Disney Girls", a great song originally recorded by the <strong>Beach Boys</strong> during a somewhat un-Beach Boys-like period.  It was written by Beach Boy <strong>Bruce Johnston</strong>, who was in many ways Brian Wilson's replacement in the band.  Johnston appears on this version as well, playing piano, whistling, and singing background vocals.</p>
+<p>The Judas Priest record contains what might have been their signature tune at the time, "Diamonds and Rust".  What many fans may not have known is that the song was originally written and recorded by <strong>Joan Baez</strong>.  You can't make this stuff up.</p>
+<p>So let's follow <a href="http://musicroutes.com/route.php?route=b66f3c63a3cf604cd1ccdce26c317771" target="_blank">the route from Garfunkel's "Disney Girls" to Priest's live version of "Diamonds and Rust"</a>!</p>
+<p>In addition to the participation of Bruce Johnston, Art Garfunkel's rendition of "Disney Girls"  has a performance by veteran studio drummer <strong>Russ Kunkel</strong>.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/qBhRGOEKMIU&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/qBhRGOEKMIU&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Kunkel also played on "Like a Rock" by <strong>Bob Seger</strong>.  "Like a Rock" also features keyboard session veteran <strong>Bill Payne</strong>.  (Payne played on some tracks on Garfunkel's Breakaway, but "Disney Girls" was not among them.)</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/keIvA2wSPZc&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/keIvA2wSPZc&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Bill Payne played organ on the <strong>Pink Floyd</strong> song "The Dogs of War".   The song is packed with studio heavyweights like <strong>Tony Levin</strong> and <strong>Tom Scott</strong>.  <strong>David Gilmour</strong> is the only member of the band that performs on the much-maligned track.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/pPFJDVKpB7s&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/pPFJDVKpB7s&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>The drummer on "The Dogs of War" is drummer <strong>Carmine Appice</strong>, perhaps best known for being the drummer in <strong>Vanilla Fudge</strong>.  Appice also has extensive studio credits.</p>
+<p>In 1985, <strong>Ronnie James Dio</strong> decided that heavy metal musicians ought to do a charity single for African famine relief similar to "We Are the World" (1985) and "Do They know It's Christmas?" (1984)  The result was supergroup <strong>Hear 'n Aid</strong> and the single "Stars" released in 1986.  Dio's drummer <strong>Vinny Appice</strong> plays on the track.  Vinny is Carmine's brother.  Carmine Appice sings in the large metal choir on the choruses.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/4MEEYYWUcLM&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/4MEEYYWUcLM&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>If you watched the video above, you may have noticed that one of the featured singers on "Stars" is Judas Priest's <strong>Rob Halford</strong>.  This brings us to Judas Priest's live version of "Diamonds and Rust".</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/-OHJP1BSVgM&amp;hl=en&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/-OHJP1BSVgM&amp;hl=en&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Best in set: Gotta go with Art Garfunkel on this one.</p>

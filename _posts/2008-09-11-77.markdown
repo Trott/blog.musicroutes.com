@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Surf Punks
+author:
+  display_name: Trott
+  login: admin
+  email: rtrott@gmail.com
+  url: http://musicroutes.com/
+author_login: admin
+author_email: rtrott@gmail.com
+author_url: http://musicroutes.com/
+wordpress_id: 77
+wordpress_url: http://blog.musicroutes.com/?p=77
+date: '2008-09-11 06:28:26 -0700'
+date_gmt: '2008-09-11 13:28:26 -0700'
+categories:
+- Your Discography Help Requested
+tags:
+- ramonetures
+- ramones
+- ventures
+comments: []
+---
+<p><img class="alignleft size-medium wp-image-80" title="Ramonetures" src="http://blog.musicroutes.com/wp-content/uploads/2008/09/amone-300x281.jpg" alt="" width="300" height="281" /><strong>The Ramonetures</strong> name is a cross of the names of punk greats <strong>the Ramones</strong> and surf greats <strong>the Ventures</strong>.</p>
+<p>The <a href="http://musicroutes.com/route.php?musicianName=The+Ramonetures&amp;musicianName2=The+Ramones" target="_blank">route from the Ramonetures to the Ramones</a> traverses some interesting ground.  (Try it a few times for some slightly different results.)</p>
+<p>Any ideas how one might get from the Ramonetures to the Ventures?  If so, leave a comment here or <a href="http://musicroutes.com/contact.php" target="_blank">send an email</a>!</p>
+<p><strong>Update:</strong> Done!  <a href="http://musicroutes.com/route.php?musicianName=The+Ventures&amp;musicianName2=The+Ramonetures" target="_blank">Ventures to Ramonetures</a></p>
