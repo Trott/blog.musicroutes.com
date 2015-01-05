@@ -26,5 +26,5 @@ comments: []
 <p>So, what does he do?</p>
 <p>He emails the band.</p>
 <p>And gets a response.</p>
-<p>And now you can connect <a href="http://musicroutes.com/route.php?musicianName=Red+Fang&amp;musicianName2=Red+Hot+Chili+Peppers">Red Fang to Red Hot Chili Peppers</a> or <a href="http://musicroutes.com/route.php?musicianName=Red+Fang&amp;musicianName2=Red+House+Painters">Red House Painters</a> or <a href="http://musicroutes.com/route.php?musicianName=Red+Fang&amp;musicianName2=Redd+Kross">Redd Kross</a> or <a href="http://musicroutes.com/route.php?musicianName=Red+Fang&amp;musicianName2=Otis+Redding">Otis Redding</a>.</p>
+<p>And now you can connect Red Fang to Red Hot Chili Peppers or Red House Painters or Redd Kross or Otis Redding.</p>
 <p><iframe width="425" height="349" src="http://www.youtube.com/embed/Y3Vcoq-QRo4?rel=0" frameborder="0" allowfullscreen></iframe></p>
