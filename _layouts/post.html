@@ -7,11 +7,12 @@ layout: default
 
 {{ content }}
 
+<footer>
 {% if page.previous %}
-	<span class="left"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></span>
+	<span><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></span>
 {% endif %}
-<span class="center"><a href="{{ BASE_PATH }}/">Home</a></span>
+<span><a href="{{ BASE_PATH }}/">Home</a></span>
 {% if page.next %}
-  <span class="right"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></span>
+  <span><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></span>
 {% endif %}
-
+</footer>
