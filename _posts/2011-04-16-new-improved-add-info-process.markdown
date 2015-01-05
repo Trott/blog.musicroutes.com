@@ -47,4 +47,4 @@ comments:
     the band names. So are these bands that you want more info on or is it random?
 ---
 <p>I'm making substantial changes to the process for adding information to Music Routes.  Rather than try to get it all right and roll it out in one big blob, I'm pushing out pieces as they're done.  </p>
-<p><a href="http://musicroutes.com/add.php?m">Go give it a whirl</a> and let me know what you think!  Chances are you'll come up with all the things that bother me, but you'll have a better solution in mind.</p>
+<p>Go give it a whirl and let me know what you think!  Chances are you'll come up with all the things that bother me, but you'll have a better solution in mind.</p>
