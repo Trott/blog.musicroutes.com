@@ -15,9 +15,6 @@ wordpress_id: 253
 wordpress_url: http://blog.musicroutes.com/?p=253
 date: '2009-03-10 20:37:21 -0700'
 date_gmt: '2009-03-11 03:37:21 -0700'
-categories:
-- Site Updates
-- Your Discography Help Requested
 tags:
 - bruce springsteen
 - steve martin

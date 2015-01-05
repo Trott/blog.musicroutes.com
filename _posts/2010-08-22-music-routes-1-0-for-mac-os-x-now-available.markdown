@@ -15,8 +15,6 @@ wordpress_id: 635
 wordpress_url: http://blog.musicroutes.com/?p=635
 date: '2010-08-22 14:40:43 -0700'
 date_gmt: '2010-08-22 21:40:43 -0700'
-categories:
-- Music Routes For Mac OS X
 tags: []
 comments: []
 ---

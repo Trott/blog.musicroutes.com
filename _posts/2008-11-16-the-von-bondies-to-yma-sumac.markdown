@@ -15,9 +15,6 @@ wordpress_id: 178
 wordpress_url: http://blog.musicroutes.com/?p=178
 date: '2008-11-16 21:44:37 -0800'
 date_gmt: '2008-11-17 04:44:37 -0800'
-categories:
-- Site Updates
-- Your Discography Help Requested
 tags:
 - yma sumac
 - von bondies

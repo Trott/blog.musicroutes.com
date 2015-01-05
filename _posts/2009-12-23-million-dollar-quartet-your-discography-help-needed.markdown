@@ -15,8 +15,6 @@ wordpress_id: 593
 wordpress_url: http://blog.musicroutes.com/?p=593
 date: '2009-12-23 16:43:00 -0800'
 date_gmt: '2009-12-23 23:43:00 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - elvis presley
 - usa for africa

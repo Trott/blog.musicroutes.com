@@ -15,9 +15,6 @@ wordpress_id: 442
 wordpress_url: http://blog.musicroutes.com/?p=442
 date: '2009-09-19 20:32:18 -0700'
 date_gmt: '2009-09-20 03:32:18 -0700'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - elvis presley
 - ray charles

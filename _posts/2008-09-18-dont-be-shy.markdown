@@ -15,8 +15,6 @@ wordpress_id: 101
 wordpress_url: http://blog.musicroutes.com/?p=101
 date: '2008-09-18 05:46:28 -0700'
 date_gmt: '2008-09-18 12:46:28 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - elvis presley
 comments: []

@@ -15,8 +15,7 @@ wordpress_id: 658
 wordpress_url: http://blog.musicroutes.com/?p=658
 date: '2011-05-22 13:56:51 -0700'
 date_gmt: '2011-05-22 20:56:51 -0700'
-categories:
-- Uncategorized
+
 tags: []
 comments: []
 ---

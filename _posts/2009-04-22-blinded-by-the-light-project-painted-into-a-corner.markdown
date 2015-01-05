@@ -15,8 +15,6 @@ wordpress_id: 357
 wordpress_url: http://blog.musicroutes.com/?p=357
 date: '2009-04-22 19:54:01 -0700'
 date_gmt: '2009-04-23 02:54:01 -0700'
-categories:
-- Blinded By The Light Project
 tags:
 - bruce springsteen
 - manfred mann's earth band

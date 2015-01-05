@@ -15,8 +15,6 @@ wordpress_id: 9
 wordpress_url: http://blog.musicroutes.com/?p=9
 date: '2008-08-10 17:35:50 -0700'
 date_gmt: '2008-08-11 00:35:50 -0700'
-categories:
-- Site Updates
 tags:
 - gg allin
 - kenny g

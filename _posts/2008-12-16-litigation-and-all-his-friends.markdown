@@ -15,8 +15,6 @@ wordpress_id: 200
 wordpress_url: http://blog.musicroutes.com/?p=200
 date: '2008-12-16 00:21:24 -0800'
 date_gmt: '2008-12-16 07:21:24 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - chiffons
 - george harrison

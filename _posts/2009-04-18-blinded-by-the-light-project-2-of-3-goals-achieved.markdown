@@ -15,8 +15,6 @@ wordpress_id: 352
 wordpress_url: http://blog.musicroutes.com/?p=352
 date: '2009-04-18 00:14:24 -0700'
 date_gmt: '2009-04-18 07:14:24 -0700'
-categories:
-- Blinded By The Light Project
 tags:
 - bruce springsteen
 - beatles

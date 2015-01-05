@@ -15,8 +15,6 @@ wordpress_id: 453
 wordpress_url: http://blog.musicroutes.com/?p=453
 date: '2009-09-27 21:42:13 -0700'
 date_gmt: '2009-09-28 04:42:13 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - warren zevon
 - cat stevens

@@ -15,8 +15,6 @@ wordpress_id: 57
 wordpress_url: http://blog.musicroutes.com/?p=57
 date: '2008-09-08 06:16:42 -0700'
 date_gmt: '2008-09-08 13:16:42 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - beastie boys
 - money mark

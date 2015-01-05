@@ -16,9 +16,6 @@ wordpress_id: 597
 wordpress_url: http://blog.musicroutes.com/?p=597
 date: '2009-12-27 17:49:29 -0800'
 date_gmt: '2009-12-28 00:49:29 -0800'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - les baxter
 - bob dylan

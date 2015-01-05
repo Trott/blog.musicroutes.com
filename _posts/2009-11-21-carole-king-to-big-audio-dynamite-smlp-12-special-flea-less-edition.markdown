@@ -15,9 +15,6 @@ wordpress_id: 549
 wordpress_url: http://blog.musicroutes.com/?p=549
 date: '2009-11-21 14:53:22 -0800'
 date_gmt: '2009-11-21 21:53:22 -0800'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - red hot chili peppers
 - art garfunkel

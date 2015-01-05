@@ -15,8 +15,6 @@ wordpress_id: 119
 wordpress_url: http://blog.musicroutes.com/?p=119
 date: '2008-10-13 06:15:33 -0700'
 date_gmt: '2008-10-13 13:15:33 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - beatles
 comments: []

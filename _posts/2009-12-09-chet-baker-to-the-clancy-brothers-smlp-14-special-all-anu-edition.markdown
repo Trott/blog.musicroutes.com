@@ -15,8 +15,6 @@ wordpress_id: 574
 wordpress_url: http://blog.musicroutes.com/?p=574
 date: '2009-12-09 09:10:39 -0800'
 date_gmt: '2009-12-09 16:10:39 -0800'
-categories:
-- Saturday Morning Listening Party
 tags:
 - jim keltner
 - ringo starr

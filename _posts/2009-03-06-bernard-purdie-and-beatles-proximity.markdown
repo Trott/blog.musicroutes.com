@@ -15,8 +15,7 @@ wordpress_id: 246
 wordpress_url: http://blog.musicroutes.com/?p=246
 date: '2009-03-06 00:32:52 -0800'
 date_gmt: '2009-03-06 07:32:52 -0800'
-categories:
-- Uncategorized
+
 tags:
 - john lennon
 - paul mccartney

@@ -15,9 +15,6 @@ wordpress_id: 543
 wordpress_url: http://blog.musicroutes.com/?p=543
 date: '2009-11-14 12:10:16 -0800'
 date_gmt: '2009-11-14 19:10:16 -0800'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - paul mccartney
 - beatles

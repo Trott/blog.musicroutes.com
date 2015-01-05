@@ -15,8 +15,6 @@ wordpress_id: 114
 wordpress_url: http://blog.musicroutes.com/?p=114
 date: '2008-09-29 06:01:50 -0700'
 date_gmt: '2008-09-29 13:01:50 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - pink floyd
 - bob ezrin

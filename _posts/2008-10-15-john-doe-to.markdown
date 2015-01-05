@@ -15,8 +15,7 @@ wordpress_id: 126
 wordpress_url: http://blog.musicroutes.com/?p=126
 date: '2008-10-15 05:45:19 -0700'
 date_gmt: '2008-10-15 12:45:19 -0700'
-categories:
-- Uncategorized
+
 tags:
 - john doe
 - alan doughty

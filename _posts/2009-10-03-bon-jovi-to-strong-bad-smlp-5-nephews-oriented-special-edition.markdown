@@ -15,8 +15,6 @@ wordpress_id: 466
 wordpress_url: http://blog.musicroutes.com/?p=466
 date: '2009-10-03 16:04:33 -0700'
 date_gmt: '2009-10-03 23:04:33 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - mike doughty
 - cher

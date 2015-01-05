@@ -15,8 +15,6 @@ wordpress_id: 85
 wordpress_url: http://blog.musicroutes.com/?p=85
 date: '2008-09-15 00:11:05 -0700'
 date_gmt: '2008-09-15 07:11:05 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - dead kennedys
 - grateful dead

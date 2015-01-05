@@ -15,8 +15,6 @@ wordpress_id: 7
 wordpress_url: http://blog.musicroutes.com/?p=7
 date: '2008-08-03 13:36:43 -0700'
 date_gmt: '2008-08-03 20:36:43 -0700'
-categories:
-- Site Updates
 tags:
 - dethklok
 - muppets

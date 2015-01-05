@@ -15,8 +15,6 @@ wordpress_id: 91
 wordpress_url: http://blog.musicroutes.com/?p=91
 date: '2008-09-16 05:56:09 -0700'
 date_gmt: '2008-09-16 12:56:09 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - william shatner
 - ben folds

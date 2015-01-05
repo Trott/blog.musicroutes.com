@@ -15,8 +15,6 @@ wordpress_id: 122
 wordpress_url: http://blog.musicroutes.com/?p=122
 date: '2008-10-14 06:04:50 -0700'
 date_gmt: '2008-10-14 13:04:50 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - flesh eaters
 - john doe

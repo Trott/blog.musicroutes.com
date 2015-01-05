@@ -15,8 +15,6 @@ wordpress_id: 66
 wordpress_url: http://blog.musicroutes.com/?p=66
 date: '2008-09-10 06:03:09 -0700'
 date_gmt: '2008-09-10 13:03:09 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - henry mancini
 comments: []

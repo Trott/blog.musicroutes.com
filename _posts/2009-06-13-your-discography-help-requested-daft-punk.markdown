@@ -15,8 +15,6 @@ wordpress_id: 383
 wordpress_url: http://blog.musicroutes.com/?p=383
 date: '2009-06-13 23:02:23 -0700'
 date_gmt: '2009-06-14 06:02:23 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - kenny g
 - louis armstrong

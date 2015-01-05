@@ -15,8 +15,6 @@ wordpress_id: 55
 wordpress_url: http://blog.musicroutes.com/?p=55
 date: '2008-09-05 06:15:39 -0700'
 date_gmt: '2008-09-05 13:15:39 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - roberto inglés
 comments: []

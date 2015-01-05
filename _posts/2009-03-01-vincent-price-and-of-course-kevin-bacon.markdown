@@ -15,8 +15,6 @@ wordpress_id: 239
 wordpress_url: http://blog.musicroutes.com/?p=239
 date: '2009-03-01 23:50:54 -0800'
 date_gmt: '2009-03-02 06:50:54 -0800'
-categories:
-- Site Updates
 tags:
 - kevin bacon
 - vincent price

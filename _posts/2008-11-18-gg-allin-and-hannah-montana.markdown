@@ -15,8 +15,6 @@ wordpress_id: 181
 wordpress_url: http://blog.musicroutes.com/?p=181
 date: '2008-11-18 20:39:40 -0800'
 date_gmt: '2008-11-19 03:39:40 -0800'
-categories:
-- Site Updates
 tags:
 - gg allin
 - hannah montana

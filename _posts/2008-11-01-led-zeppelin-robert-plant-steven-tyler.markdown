@@ -15,8 +15,6 @@ wordpress_id: 157
 wordpress_url: http://blog.musicroutes.com/?p=157
 date: '2008-11-01 00:15:49 -0700'
 date_gmt: '2008-11-01 07:15:49 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - pink floyd
 - steven tyler

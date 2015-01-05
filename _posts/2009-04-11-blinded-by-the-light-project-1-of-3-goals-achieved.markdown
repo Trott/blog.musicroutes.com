@@ -15,8 +15,6 @@ wordpress_id: 347
 wordpress_url: http://blog.musicroutes.com/?p=347
 date: '2009-04-11 00:18:04 -0700'
 date_gmt: '2009-04-11 07:18:04 -0700'
-categories:
-- Blinded By The Light Project
 tags:
 - bruce springsteen
 - paul mccartney

@@ -15,8 +15,7 @@ wordpress_id: 405
 wordpress_url: http://blog.musicroutes.com/?p=405
 date: '2009-08-15 10:50:56 -0700'
 date_gmt: '2009-08-15 17:50:56 -0700'
-categories:
-- Uncategorized
+
 tags:
 - bee gees
 - vanilla ice

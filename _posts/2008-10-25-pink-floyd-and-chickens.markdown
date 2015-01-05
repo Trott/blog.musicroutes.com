@@ -15,8 +15,6 @@ wordpress_id: 149
 wordpress_url: http://blog.musicroutes.com/?p=149
 date: '2008-10-25 13:00:57 -0700'
 date_gmt: '2008-10-25 20:00:57 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - pink floyd
 - rufus thomas

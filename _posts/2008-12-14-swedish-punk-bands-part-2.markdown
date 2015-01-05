@@ -15,8 +15,6 @@ wordpress_id: 196
 wordpress_url: http://blog.musicroutes.com/?p=196
 date: '2008-12-14 14:58:17 -0800'
 date_gmt: '2008-12-14 21:58:17 -0800'
-categories:
-- Site Updates
 tags:
 - no fun at all
 - iron &amp; wine

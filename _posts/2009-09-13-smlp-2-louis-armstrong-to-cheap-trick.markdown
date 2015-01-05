@@ -15,8 +15,6 @@ wordpress_id: 422
 wordpress_url: http://blog.musicroutes.com/?p=422
 date: '2009-09-13 13:45:47 -0700'
 date_gmt: '2009-09-13 20:45:47 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - ministry
 - frank sinatra

@@ -15,9 +15,6 @@ wordpress_id: 611
 wordpress_url: http://blog.musicroutes.com/?p=611
 date: '2009-12-28 14:27:59 -0800'
 date_gmt: '2009-12-28 21:27:59 -0800'
-categories:
-- Site Updates
-- Your Discography Help Requested
 tags:
 - estelle bennett
 - ronettes

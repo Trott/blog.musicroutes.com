@@ -16,8 +16,6 @@ wordpress_id: 439
 wordpress_url: http://blog.musicroutes.com/?p=439
 date: '2009-09-16 20:20:31 -0700'
 date_gmt: '2009-09-17 03:20:31 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - bernard purdie
 - ringo starr

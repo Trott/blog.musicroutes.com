@@ -15,8 +15,7 @@ wordpress_id: 135
 wordpress_url: http://blog.musicroutes.com/?p=135
 date: '2008-10-17 06:33:57 -0700'
 date_gmt: '2008-10-17 13:33:57 -0700'
-categories:
-- Uncategorized
+
 tags:
 - stephin merritt
 - sid vicious

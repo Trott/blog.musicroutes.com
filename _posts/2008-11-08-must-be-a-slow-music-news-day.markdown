@@ -15,8 +15,6 @@ wordpress_id: 169
 wordpress_url: http://blog.musicroutes.com/?p=169
 date: '2008-11-08 21:26:04 -0800'
 date_gmt: '2008-11-09 04:26:04 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - sia furler
 - christina aguilera

@@ -15,8 +15,7 @@ wordpress_id: 204
 wordpress_url: http://blog.musicroutes.com/?p=204
 date: '2008-12-20 18:05:22 -0800'
 date_gmt: '2008-12-21 01:05:22 -0800'
-categories:
-- Uncategorized
+
 tags:
 - frank sinatra
 - lil wayne

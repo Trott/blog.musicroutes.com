@@ -15,8 +15,6 @@ wordpress_id: 416
 wordpress_url: http://blog.musicroutes.com/?p=416
 date: '2009-09-05 23:24:38 -0700'
 date_gmt: '2009-09-06 06:24:38 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - frank sinatra
 - joe cocker

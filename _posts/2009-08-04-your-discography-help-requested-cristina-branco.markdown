@@ -15,8 +15,6 @@ wordpress_id: 400
 wordpress_url: http://blog.musicroutes.com/?p=400
 date: '2009-08-04 20:18:36 -0700'
 date_gmt: '2009-08-05 03:18:36 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - cristina branco
 - jorge palma

@@ -16,8 +16,6 @@ wordpress_id: 174
 wordpress_url: http://blog.musicroutes.com/?p=174
 date: '2008-11-09 22:51:04 -0800'
 date_gmt: '2008-11-10 05:51:04 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - jack white
 - alicia keys

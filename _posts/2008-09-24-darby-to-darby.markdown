@@ -15,8 +15,6 @@ wordpress_id: 112
 wordpress_url: http://blog.musicroutes.com/?p=112
 date: '2008-09-24 05:44:26 -0700'
 date_gmt: '2008-09-24 12:44:26 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - terence trent d'arby
 - darby crash

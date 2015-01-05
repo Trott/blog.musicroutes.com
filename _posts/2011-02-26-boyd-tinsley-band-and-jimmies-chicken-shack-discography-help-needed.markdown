@@ -15,8 +15,6 @@ wordpress_id: 650
 wordpress_url: http://blog.musicroutes.com/?p=650
 date: '2011-02-26 11:31:48 -0800'
 date_gmt: '2011-02-26 18:31:48 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - monk siddiq
 - jimmie's chicken shack

@@ -15,8 +15,6 @@ wordpress_id: 104
 wordpress_url: http://blog.musicroutes.com/?p=104
 date: '2008-09-19 05:16:03 -0700'
 date_gmt: '2008-09-19 12:16:03 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - terry wood
 - terry woods

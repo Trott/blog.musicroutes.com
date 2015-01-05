@@ -15,9 +15,6 @@ wordpress_id: 514
 wordpress_url: http://blog.musicroutes.com/?p=514
 date: '2009-10-24 14:50:11 -0700'
 date_gmt: '2009-10-24 21:50:11 -0700'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - paul mccartney
 - wings

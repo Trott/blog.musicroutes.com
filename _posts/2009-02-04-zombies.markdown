@@ -15,8 +15,7 @@ wordpress_id: 212
 wordpress_url: http://blog.musicroutes.com/?p=212
 date: '2009-02-04 14:18:53 -0800'
 date_gmt: '2009-02-04 21:18:53 -0800'
-categories:
-- Uncategorized
+
 tags:
 - rob zombie
 - zombies

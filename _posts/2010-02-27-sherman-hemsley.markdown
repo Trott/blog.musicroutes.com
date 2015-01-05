@@ -15,8 +15,7 @@ wordpress_id: 625
 wordpress_url: http://blog.musicroutes.com/?p=625
 date: '2010-02-27 00:23:11 -0800'
 date_gmt: '2010-02-27 07:23:11 -0800'
-categories:
-- Uncategorized
+
 tags:
 - jon anderson
 - 'yes'

@@ -15,8 +15,7 @@ wordpress_id: 185
 wordpress_url: http://blog.musicroutes.com/?p=185
 date: '2008-11-23 23:45:14 -0800'
 date_gmt: '2008-11-24 06:45:14 -0800'
-categories:
-- Uncategorized
+
 tags:
 - bruce springsteen
 - steve miller band

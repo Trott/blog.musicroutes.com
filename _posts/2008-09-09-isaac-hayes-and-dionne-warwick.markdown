@@ -15,8 +15,6 @@ wordpress_id: 61
 wordpress_url: http://blog.musicroutes.com/?p=61
 date: '2008-09-09 06:32:46 -0700'
 date_gmt: '2008-09-09 13:32:46 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - isaac hayes
 - dionne warwick

@@ -15,9 +15,6 @@ wordpress_id: 653
 wordpress_url: http://blog.musicroutes.com/?p=653
 date: '2011-04-16 20:10:08 -0700'
 date_gmt: '2011-04-17 03:10:08 -0700'
-categories:
-- Site Updates
-- Your Discography Help Requested
 tags: []
 comments:
 - id: 740

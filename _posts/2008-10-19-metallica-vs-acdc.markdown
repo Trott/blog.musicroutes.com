@@ -15,8 +15,7 @@ wordpress_id: 140
 wordpress_url: http://blog.musicroutes.com/?p=140
 date: '2008-10-19 00:15:08 -0700'
 date_gmt: '2008-10-19 07:15:08 -0700'
-categories:
-- Uncategorized
+
 tags:
 - paul anka
 - randy newman

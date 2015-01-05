@@ -15,8 +15,6 @@ wordpress_id: 264
 wordpress_url: http://blog.musicroutes.com/?p=264
 date: '2009-03-15 12:38:14 -0700'
 date_gmt: '2009-03-15 19:38:14 -0700'
-categories:
-- Blinded By The Light Project
 tags:
 - bruce springsteen
 - cure

@@ -15,8 +15,6 @@ wordpress_id: 13
 wordpress_url: http://blog.musicroutes.com/?p=13
 date: '2008-08-10 22:08:06 -0700'
 date_gmt: '2008-08-11 05:08:06 -0700'
-categories:
-- Site Updates
 tags:
 - beck
 - chef

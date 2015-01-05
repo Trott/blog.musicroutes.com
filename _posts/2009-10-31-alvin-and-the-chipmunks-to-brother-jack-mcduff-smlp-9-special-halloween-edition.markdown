@@ -16,8 +16,6 @@ wordpress_id: 527
 wordpress_url: http://blog.musicroutes.com/?p=527
 date: '2009-10-31 14:28:18 -0700'
 date_gmt: '2009-10-31 21:28:18 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - frank zappa
 - brother jack mcduff

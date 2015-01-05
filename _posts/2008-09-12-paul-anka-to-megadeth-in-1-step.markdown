@@ -15,8 +15,6 @@ wordpress_id: 72
 wordpress_url: http://blog.musicroutes.com/?p=72
 date: '2008-09-12 06:12:01 -0700'
 date_gmt: '2008-09-12 13:12:01 -0700'
-categories:
-- Site Updates
 tags:
 - albert ayler
 - frank zappa

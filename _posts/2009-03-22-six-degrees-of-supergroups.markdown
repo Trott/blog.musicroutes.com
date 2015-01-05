@@ -15,8 +15,7 @@ wordpress_id: 275
 wordpress_url: http://blog.musicroutes.com/?p=275
 date: '2009-03-22 09:31:23 -0700'
 date_gmt: '2009-03-22 16:31:23 -0700'
-categories:
-- Uncategorized
+
 tags:
 - led zeppelin
 - coldplay

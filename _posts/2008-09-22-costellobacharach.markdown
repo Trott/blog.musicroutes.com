@@ -15,8 +15,6 @@ wordpress_id: 108
 wordpress_url: http://blog.musicroutes.com/?p=108
 date: '2008-09-22 05:32:46 -0700'
 date_gmt: '2008-09-22 12:32:46 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - elvis costello
 - burt bacharach

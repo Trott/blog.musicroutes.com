@@ -15,8 +15,6 @@ wordpress_id: 490
 wordpress_url: http://blog.musicroutes.com/?p=490
 date: '2009-10-14 18:38:13 -0700'
 date_gmt: '2009-10-15 01:38:13 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - martin denny
 - julius wechter

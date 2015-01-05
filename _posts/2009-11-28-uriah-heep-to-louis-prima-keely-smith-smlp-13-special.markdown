@@ -15,8 +15,6 @@ wordpress_id: 562
 wordpress_url: http://blog.musicroutes.com/?p=562
 date: '2009-11-28 22:52:42 -0800'
 date_gmt: '2009-11-29 05:52:42 -0800'
-categories:
-- Saturday Morning Listening Party
 tags:
 - frank sinatra
 - jethro tull

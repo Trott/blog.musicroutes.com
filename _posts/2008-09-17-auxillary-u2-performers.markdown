@@ -15,8 +15,6 @@ wordpress_id: 98
 wordpress_url: http://blog.musicroutes.com/?p=98
 date: '2008-09-17 05:23:08 -0700'
 date_gmt: '2008-09-17 12:23:08 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - u2
 - brian eno

@@ -15,8 +15,6 @@ wordpress_id: 3
 wordpress_url: http://blog.musicroutes.com/?p=3
 date: '2008-07-19 09:22:29 -0700'
 date_gmt: '2008-07-19 16:22:29 -0700'
-categories:
-- Site Updates
 tags: []
 comments: []
 ---

@@ -15,8 +15,6 @@ wordpress_id: 369
 wordpress_url: http://blog.musicroutes.com/?p=369
 date: '2009-04-23 19:15:43 -0700'
 date_gmt: '2009-04-24 02:15:43 -0700'
-categories:
-- Blinded By The Light Project
 tags:
 - warren zevon
 - bruce springsteen

@@ -15,8 +15,6 @@ wordpress_id: 15
 wordpress_url: http://blog.musicroutes.com/?p=15
 date: '2008-08-10 23:01:05 -0700'
 date_gmt: '2008-08-11 06:01:05 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - mark volman
 - howard kaylan

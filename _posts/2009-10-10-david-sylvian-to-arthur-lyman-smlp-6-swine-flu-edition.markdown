@@ -15,9 +15,6 @@ wordpress_id: 475
 wordpress_url: http://blog.musicroutes.com/?p=475
 date: '2009-10-10 13:14:16 -0700'
 date_gmt: '2009-10-10 20:14:16 -0700'
-categories:
-- Your Discography Help Requested
-- Saturday Morning Listening Party
 tags:
 - martin denny
 - arthur lyman

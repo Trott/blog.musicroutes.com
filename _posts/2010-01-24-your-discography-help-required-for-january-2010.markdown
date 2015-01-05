@@ -15,8 +15,6 @@ wordpress_id: 616
 wordpress_url: http://blog.musicroutes.com/?p=616
 date: '2010-01-24 00:20:15 -0800'
 date_gmt: '2010-01-24 07:20:15 -0800'
-categories:
-- Your Discography Help Requested
 tags:
 - jimmy page
 - shirley bassey

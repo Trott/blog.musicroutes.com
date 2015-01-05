@@ -15,8 +15,7 @@ wordpress_id: 391
 wordpress_url: http://blog.musicroutes.com/?p=391
 date: '2009-07-08 20:28:13 -0700'
 date_gmt: '2009-07-09 03:28:13 -0700'
-categories:
-- Uncategorized
+
 tags:
 - mc hammer
 - tom morello

@@ -15,9 +15,6 @@ wordpress_id: 193
 wordpress_url: http://blog.musicroutes.com/?p=193
 date: '2008-12-02 08:49:04 -0800'
 date_gmt: '2008-12-02 15:49:04 -0800'
-categories:
-- Site Updates
-- Your Discography Help Requested
 tags:
 - refused
 - millencolin

@@ -15,8 +15,6 @@ wordpress_id: 51
 wordpress_url: http://blog.musicroutes.com/?p=51
 date: '2008-09-04 06:28:57 -0700'
 date_gmt: '2008-09-04 13:28:57 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - gg allin
 - kenny g

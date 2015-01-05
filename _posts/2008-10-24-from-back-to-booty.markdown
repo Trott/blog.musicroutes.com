@@ -15,8 +15,6 @@ wordpress_id: 143
 wordpress_url: http://blog.musicroutes.com/?p=143
 date: '2008-10-24 00:21:16 -0700'
 date_gmt: '2008-10-24 07:21:16 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - mississippi john hurt
 - sir mix-a-lot

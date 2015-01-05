@@ -15,8 +15,6 @@ wordpress_id: 497
 wordpress_url: http://blog.musicroutes.com/?p=497
 date: '2009-10-17 14:55:29 -0700'
 date_gmt: '2009-10-17 21:55:29 -0700'
-categories:
-- Saturday Morning Listening Party
 tags:
 - warren zevon
 - beck

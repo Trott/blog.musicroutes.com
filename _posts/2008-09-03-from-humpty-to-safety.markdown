@@ -15,8 +15,6 @@ wordpress_id: 45
 wordpress_url: http://blog.musicroutes.com/?p=45
 date: '2008-09-03 09:57:54 -0700'
 date_gmt: '2008-09-03 16:57:54 -0700'
-categories:
-- Your Discography Help Requested
 tags:
 - yma sumac
 - digital underground
