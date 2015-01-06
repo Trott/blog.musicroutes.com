@@ -24,7 +24,7 @@ tags:
 - jerry lee lewis
 comments: []
 ---
-<p><img class="alignright" src="http://image.listen.com/img/170x170/3/0/4/0/1670403_170x170.jpg" alt="" width="170" height="170" />With a site like <a href="http://musicroutes.com/" target="_blank">Music Routes</a>, how can it not have the <strong>Million Dollar Quartet</strong> in the database?</p>
+<p>With a site like <a href="http://musicroutes.com/" target="_blank">Music Routes</a>, how can it not have the <strong>Million Dollar Quartet</strong> in the database?</p>
 <p>Well, let me explain...</p>
 <p>The <a href="http://en.wikipedia.org/wiki/Million_Dollar_Quartet" target="_blank">Million Dollar Quartet</a> is a famous jam session that  featured <strong>Elvis Presley</strong>, <strong>Johnny Cash</strong> (or maybe not; see below), <strong>Carl Perkins</strong>, and <strong>Jerry Lee Lewis</strong>.  Among 1956 recordings, this may be the closest thing to a <strong>USA For Africa</strong> type of one-off supergroup.</p>
 <p>Here's the problem:  It's unclear who is on what track.  Some credible sources (such as Presley biographer Ernst Jorgensen) say that Cash isn't actually on the recording, that he was just there for the photo and wasn't even in the studio while the tape was rolling!  Cash on the other hand, in his own book, insists that he was there the whole time and that his voice can be heard quietly and in a higher register than usual.</p>
