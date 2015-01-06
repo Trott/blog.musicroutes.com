@@ -46,8 +46,7 @@ comments:
   date_gmt: '2010-01-31 20:35:07 -0800'
   content: "Goldfinger to Jimmy Page solved:\r\nhttp://musicroutes.com/route.php?musicianName=Goldfinger&musicianName2=Jimmy+Page&x=0&y=0"
 ---
-<p><img class="alignright size-full wp-image-617" src="http://blog.musicroutes.com/wp-content/uploads/2010/01/115138841_b0a194fd12_m.jpg" alt="" width="240" height="148" /><span style="text-decoration: line-through;">How to connect <a href="http://musicroutes.com/discography.php?t=i&amp;id=712" target="_blank"><strong>Prince</strong></a> to <strong>Kings of Leon</strong>?</span></p>
-<p><span style="text-decoration: line-through;">Or how about <a href="http://musicroutes.com/discography.php?t=i&amp;id=2782" target="_blank"><strong>LL Cool J</strong></a> to <strong>Wayne Newton</strong>?</span></p>
-<p><span style="text-decoration: line-through;">Or <a href="http://musicroutes.com/discography.php?t=i&amp;id=301" target="_blank"><strong>Jimmy Page</strong></a> to <strong>Goldfinger</strong> (the band, not the <a href="http://musicroutes.com/discography.php?t=i&amp;id=4525" target="_blank"><strong>Shirley Bassey</strong></a> track)?</span></p>
+<p><span style="text-decoration: line-through;">How to connect <strong>Prince</strong> to <strong>Kings of Leon</strong>?</span></p>
+<p><span style="text-decoration: line-through;">Or how about <strong>LL Cool J</strong> to <strong>Wayne Newton</strong>?</span></p>
+<p><span style="text-decoration: line-through;">Or <strong>Jimmy Page</strong> to <strong>Goldfinger</strong> (the band, not the <a href="http://musicroutes.com/discography.php?t=i&amp;id=4525" target="_blank"><strong>Shirley Bassey</strong></a> track)?</span></p>
 <p>Thanks for the assistance!  All solved!</p>
-<p><em>Photo by <a href="http://www.flickr.com/photos/darren/" target="_blank">darren131</a></em></p>
