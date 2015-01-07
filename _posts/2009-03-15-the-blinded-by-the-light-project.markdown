@@ -45,7 +45,7 @@ comments:
     OK, actually, you probably got here through a Google search and have no idea what
     I&#8217;m [...]'
 ---
-<p><img class="alignright size-full wp-image-267" src="http://blog.musicroutes.com/wp-content/uploads/2009/03/2203862517_0c66a5d6c8_m.jpg" alt="" width="240" height="160" />Not too long ago, <a href="http://blog.musicroutes.com/?p=185">I used a rant about people who have the wrong metadata associated with their mp3s as a jumping-off point</a>.  (Note to world: <strong>The Cure</strong> did not perform "Come On, Eileen", kthxbai.)  I looked at routes between <strong>Bruce Springsteen</strong> (who wrote and first recorded "Blinded By The Light"), <strong>Manfred Mann</strong> (who had the biggest hit with the song), and <strong>Steve Miller</strong> (to whom that hit version is often erroneously attributed).</p>
+<p>Not too long ago, I used a rant about people who have the wrong metadata associated with their mp3s as a jumping-off point.  (Note to world: <strong>The Cure</strong> did not perform "Come On, Eileen", kthxbai.)  I looked at routes between <strong>Bruce Springsteen</strong> (who wrote and first recorded "Blinded By The Light"), <strong>Manfred Mann</strong> (who had the biggest hit with the song), and <strong>Steve Miller</strong> (to whom that hit version is often erroneously attributed).</p>
 <p>Since then, various combinations involving the phrase <em>blinded by the light</em> and the term <em>miller</em> have been the most common Google queries by which people find this blog.  In <span style="text-decoration: line-through;">a cheap attempt to further drive people who are looking for the bass tablature to the song onto this site</span> the hope of supplying further edification for the curious, I wish to introduce <strong>The Blinded By The Light Project</strong>.</p>
 <p>The completely pointless goals of this project are:</p>
 <ol>
@@ -54,12 +54,11 @@ comments:
 </ol>
 <p>Let's see how we're doing.</p>
 <ol>
-<li><a href="http://musicroutes.com/route.php?route=ab6248d751c40c7e0a14ccc67c27b18b" target="_blank">The two "Blinded By The Light" tracks are four steps apart</a>.  It would seem to me that the most promising prospects for getting the route shortened are to look for possibilities with <strong>Chris Slade</strong> (who is on the Manfred Mann version) and <strong>David Sancious</strong> (who is on the Bruce Springsteen version).</li>
+<li>The two "Blinded By The Light" tracks are four steps apart.  It would seem to me that the most promising prospects for getting the route shortened are to look for possibilities with <strong>Chris Slade</strong> (who is on the Manfred Mann version) and <strong>David Sancious</strong> (who is on the Bruce Springsteen version).</li>
 <li>
 <ul>
-<li><a href="http://musicroutes.com/route.php?route=60d2c71904305a5949f2238f342a80dd" target="_blank">Steve Miller to Bruce Springsteen's version is three steps</a>.  I suspect that it may be possible to get it down to two steps by using the fact that Springsteen sang on "We Are The World".</li>
-<li><a href="http://musicroutes.com/route.php?route=6c3dd66c54244fc39314b2d94e1a9fdc" target="_blank">Steve Miller to Manfred Mann's version is five steps</a>.  This will probably be the most challenging route to shorten.  I'm guessing Chris Slade may be the key here too.</li>
+<li>Steve Miller to Bruce Springsteen's version is three steps.  I suspect that it may be possible to get it down to two steps by using the fact that Springsteen sang on "We Are The World".</li>
+<li>Steve Miller to Manfred Mann's version is five steps.  This will probably be the most challenging route to shorten.  I'm guessing Chris Slade may be the key here too.</li>
 </ul>
 </li>
 </ol>
-<p><em>Photo by <a href="http://www.flickr.com/photos/djou/" target="_blank">THEfunkyman</a></em></p>
