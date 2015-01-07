@@ -21,6 +21,5 @@ tags:
 - zombies
 comments: []
 ---
-<p><img class="alignright size-full wp-image-215" src="http://blog.musicroutes.com/wp-content/uploads/2009/02/271887562_a403d19d82_m.jpg" alt="" width="240" height="160" />Sometimes a route amuses me enough that I want to share it.  So, here:</p>
-<p><a href="http://musicroutes.com/route.php?musicianName=Rob+Zombie&amp;musicianName2=The+Zombies" target="_blank">Rob Zombie to The Zombies</a></p>
-<p><em>Photo by <a href="http://www.flickr.com/photos/seraphimc/" target="_blank">SeraphimC</a></em></p>
+<p>Sometimes a route amuses me enough that I want to share it.  So, here:</p>
+<p>Rob Zombie to The Zombies</p>
