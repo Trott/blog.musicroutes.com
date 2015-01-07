@@ -44,8 +44,4 @@ comments:
 ---
 <p><a href="http://bernardpurdie.com/" target="_blank">Bernard "Pretty" Purdie</a> is one of the great session drummers.  He has a long list of impressive credits, but I think my favorite Purdie recording right now is this instructional video excerpt:<br />
 <object width="425" height="344" data="http://www.youtube.com/v/6FX_84iWPLU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/6FX_84iWPLU&amp;hl=en&amp;fs=1" /><param name="allowfullscreen" value="true" /></object><br />
-Unfortunately, a lot of people identify Purdie primarily with having said that he is the drummer on twenty-one early Beatles tracks. That may be implausible, but it does give me an opportunity to provide links to the very short routes from Bernard Purdie to each of the Beatles.</p>
-<p><a href="http://musicroutes.com/route.php?musicianName=Bernard+Purdie&amp;musicianName2=George+Harrison" target="_blank">Bernard Purdie to George Harrison in one step</a><br />
-<a href="http://musicroutes.com/route.php?musicianName=Bernard+Purdie&amp;musicianName2=John+Lennon" target="_blank">Bernard Purdie to John Lennon in one step</a><br />
-<a href="http://musicroutes.com/route.php?musicianName=Bernard+Purdie&amp;musicianName2=Paul+McCartney" target="_blank"> Bernard Purdie to Paul McCartney in one step</a><br />
-<a href="http://musicroutes.com/route.php?musicianName=Bernard+Purdie&amp;musicianName2=Ringo+Starr" target="_blank"> Bernard Purdie to Ringo Starr in one step</a></p>
+Unfortunately, a lot of people identify Purdie primarily with having said that he is the drummer on twenty-one early Beatles tracks. That may be implausible, but he is just one step away from each member of the Beatles.</p>
