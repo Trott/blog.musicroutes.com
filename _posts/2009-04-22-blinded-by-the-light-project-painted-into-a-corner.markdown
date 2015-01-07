@@ -39,10 +39,10 @@ comments:
   content: '[...] Yesterday, I wrote that I might have to relax the rules to achieve
     the third and final goal of the Blinded By T.... [...]'
 ---
-<p><img class="alignright size-full wp-image-359" src="http://blog.musicroutes.com/wp-content/uploads/2009/04/209840484_7eb3834605.jpg" alt="" width="334" height="500" />As <a href="http://blog.musicroutes.com/?p=352" target="_blank">previously noted</a>, two of the three goals of the Blinded By The Light Project have been achieved.</p>
+<p>As previously noted, two of the three goals of the Blinded By The Light Project have been achieved.</p>
 <p>I am concerned about the third goal, which is to get "Blinded By The Light" by <strong>Bruce Springsteen</strong> and "Blinded By The Light" by <strong>Manfred Mann's Earth Band</strong> two steps apart.</p>
 <p>When the project started, the tracks were four steps apart.</p>
-<p><a href="http://musicroutes.com/route.php?route=630a4847a38c7d199ed17e25f975bc8c" target="_blank">Now they are three steps apart</a>.</p>
+<p><Now they are three steps apart.</p>
 <p>(By the way, you really do have to listen to that <strong>Manfred Mann</strong> version of "(I Can't Get No) Satisfaction" in that last link.  It really is the best thing ever.)</p>
 <p>Let's look at that route.  <strong>David Sancious</strong> is on the Springsteen version.  He in turn played on a <strong>Jack Bruce</strong> record.  That's one step.  Jack Bruce in turn played on that wacky Stones cover by Manfred Mann mentioned above.  That's two steps.  Manfred Mann, of course, played on Manfred Mann's Earth Band's version of "Blinded By The Light", and that's three steps.</p>
 <p>If the goal of the project is to get the two tracks to be two steps apart, that leaves us in a bit of a bind.</p>
@@ -59,4 +59,3 @@ comments:
 <p style="padding-left: 30px;"><strong>Change the rules.</strong> I can start by loosening it so that it can be <em>any</em> recorded version of "Blinded By The Light" by Manfred Mann's Earth Band or Bruce Springsteen.  At least in the case of the former, that opens the door for some live versions with different personnel.  I don't think that will be sufficient, though.  At the same time, loosening it to three steps instead of two steps or two steps between the artists rather than the tracks both seem like cheating.</p>
 <ul></ul>
 <p>I hate to say it, but that last one seems the most likely path.</p>
-<p><em>Photo by <a href="http://www.flickr.com/photos/grittycitygirl/" target="_blank">grittycitygirl</a>.</em></p>
