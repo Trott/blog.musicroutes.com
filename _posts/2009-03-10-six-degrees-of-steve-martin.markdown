@@ -63,15 +63,9 @@ comments:
     Nitty Gritty Dirt Band.\r\n\r\nAnd now, just for you, Will!  Steve Martin to the
     Replacements via Earl Scruggs, Doc Watson, Paul Simon, and The Beach Boys:  http://musicroutes.com/route.php?route=8c4a63860722e7f3bb67c1cb50b52c01"
 ---
-<p><img class="alignright size-full wp-image-254" src="http://blog.musicroutes.com/wp-content/uploads/2009/03/3622579_e4fa9239b6_m.jpg" alt="" width="240" height="180" />Someone did a bunch of searches trying to connect <strong>Steve Martin</strong> to various musicians.  Some of the connections worked and some didn't.  I added some data so that they all work.</p>
-<ul>
-<li><a href="http://musicroutes.com/route.php?musicianName=Steve+Martin&amp;musicianName2=Bruce+Springsteen" target="_blank"> Steve Martin to <strong>Bruce Springsteen</strong></a></li>
-<li><a href="http://musicroutes.com/route.php?musicianName=Steve+Martin&amp;musicianName2=Eva+Cassidy" target="_blank">Steve Martin to <strong>Eva Cassidy</strong></a></li>
-<li><a href="http://musicroutes.com/route.php?musicianName=Steve+Martin&amp;musicianName2=Phish" target="_blank">Steve Martin to <strong>Phish</strong></a></li>
-<li><a href="http://musicroutes.com/route.php?musicianName=Steve+Martin&amp;musicianName2=Blue+Öyster+Cult" target="_blank">Steve Martin to <strong>Blue Öyster Cult</strong></a></li>
-</ul>
+<p><Someone did a bunch of searches trying to connect <strong>Steve Martin</strong> to various musicians.  Some of the connections worked and some didn't.  I added some data so that they all work.</p>
 <p>Each route starts with  "King Tut" which was recorded with <strong>Jeff Hanna</strong> of the <strong>Nitty Gritty Dirt Band</strong>.  I like to mix things up a bit more than that, so I want to add a few more Steve Martin tracks, but I'm having trouble locating precise personnel information for tracks he has recorded.</p>
-<p>I am especially excited about the idea of getting the personnel information for Steve Martin's cover of "Maxwell's Silver Hammer" from the soundtrack of the late 1970s movie flop <em>Sgt. Pepper's Lonely Hearts Club Band</em> which starred the <strong>Bee Gees</strong> and <strong>Peter Frampton</strong>.  It is probable that the drummer on that track is <strong>Bernard Purdie</strong> whom <a href="http://blog.musicroutes.com/?p=246" target="_blank">I've written about before</a>.  (Seriously, go watch the video in that last link if you haven't.  It is my absolute favorite non-<em>Sesame Street</em> YouTube clip.)</p>
+<p>I am especially excited about the idea of getting the personnel information for Steve Martin's cover of "Maxwell's Silver Hammer" from the soundtrack of the late 1970s movie flop <em>Sgt. Pepper's Lonely Hearts Club Band</em> which starred the <strong>Bee Gees</strong> and <strong>Peter Frampton</strong>.  It is probable that the drummer on that track is <strong>Bernard Purdie</strong> whom I've written about before.  (Seriously, go watch the video in that last link if you haven't.  It is my absolute favorite non-<em>Sesame Street</em> YouTube clip.)</p>
 <p>Unfortunately, I can't be certain from the album credits alone that it is Purdie playing the drums on that track.  (The track, by the way, is terrible, but we don't discriminate on the grounds of quality here at Music Routes HQ, much to my girlfriend's chagrin.)   You can look at a scan of the relevant part of the album artwork in <a href="http://www.discogs.com/viewimages?release=762024" target="_blank">the fourth album artwork image from the top on a page at the awesome Discogs site</a>.  In nice big letters near the top right, you can see that it credits Bernard Purdie with drums and percussion.  But keep looking further down in the smaller print below "Special Thanks To:" and you'll see that <strong>David Dowell</strong> and <strong>Jeff Porcaro</strong> played some drums on the record as well.</p>
 <blockquote><p>
 <strong>How can I determine which drummer played on this cover of "Maxwell's Silver Hammer"?</strong></p></blockquote>
@@ -79,4 +73,3 @@ comments:
 <blockquote><p><strong><br />
 Who the heck is David Dowell?</strong></p></blockquote>
 <p>I can't find anything about that guy.</p>
-<p><em>Photo by <a href="http://www.flickr.com/photos/vhannon/" target="_blank">Veeyawn</a></em></p>
