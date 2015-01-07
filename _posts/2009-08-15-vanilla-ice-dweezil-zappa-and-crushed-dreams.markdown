@@ -25,14 +25,10 @@ tags:
 - ozzy osbourne
 comments: []
 ---
-<p><img class="alignright size-full wp-image-404" src="http://blog.musicroutes.com/wp-content/uploads/2009/08/3403185392_6fdc83cc0a_o.jpg" alt="" width="389" height="296" />Imagine the joy at Music Routes HQ when I saw that <strong>Vanilla Ice</strong> is credited with bass on <strong>Dweezil Zappa</strong>'s cover of "Stayin' Alive" with an all-star cast of guitarists including <strong>Steve Lukather</strong>!</p>
+<p>Imagine the joy at Music Routes HQ when I saw that <strong>Vanilla Ice</strong> is credited with bass on <strong>Dweezil Zappa</strong>'s cover of "Stayin' Alive" with an all-star cast of guitarists including <strong>Steve Lukather</strong>!</p>
 <p>Alas, it is just a "little joke from Dweezil" in the words of <a href="http://www.stevelukather.net/Session.aspx?id=145" target="_blank">Lukather's web site</a>.</p>
 <p>Elsewhere, Dweezil says "<a href="http://articles.latimes.com/1991-03-29/entertainment/ca-1192_1_frank-zappa?pg=1" target="_blank">It's a sad day when Vanilla Ice gets more attention than good musicians who actually play instruments and music, doing things that are much more creative.</a>"</p>
 <p>And in another interview, <a href="http://idiotbastard.com/Interviews/DweezilZappa.htm" target="_blank">Dweezil opines that Vanilla Ice "deserves" derision</a>.</p>
 <p>Oh well. On the upside, <strong>Donny Osmond</strong> is apparently really singing the lead vocals!</p>
-<ul>
-<li><a href="http://musicroutes.com/route.php?musicianName=Dweezil+Zappa+Stayin'+Alive+Confessions&amp;musicianName2=Vanilla+Ice" target="_blank">Route from Dweezil Zappa's "Stayin' Alive" to Vanilla Ice</a></li>
-<li><a href="http://musicroutes.com/route.php?musicianName=Bee+Gees+Stayin%27+Alive&amp;musicianName2=Dweezil+Zappa+Stayin%27+Alive" target="_blank">Route from <strong>The Bee Gees</strong>' "Stayin' Alive" to Dweezil Zappa's cover</a></li>
-</ul>
 <p><em>Photo by <a href="http://www.flickr.com/photos/sunrise7/" target="_blank">sunrise.seven</a></em></p>
 <p><strong>UPDATE:</strong> <a href="http://articles.latimes.com/1991-03-29/news/mn-1142_1_donny-osmond" target="_blank">Donny Osmond did the lead vocal only after <strong>Ozzy Osbourne</strong>'s label balked at allowing Dweezil to release the lead vocals that Osbourne had recorded for the track.</a> The version with Ozzy Osbourne on it was eventually released on Ozzy's <em>Prince of Darkness</em> compilation.</p>
