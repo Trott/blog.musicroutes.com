@@ -21,5 +21,4 @@ tags:
 - sid vicious
 comments: []
 ---
-<p><img class="alignright size-medium wp-image-136" title="Wasps' Nests" src="http://blog.musicroutes.com/wp-content/uploads/2008/10/6wasps_large-300x297.jpg" alt="" width="300" height="297" /><strong>Stephin Merritt</strong> fans have <a href="http://stephinsongs.wiw.org/game.html" target="_blank">a game that all fan sites should play</a>.</p>
-<p>And now, for no apparent reason, here's <a href="http://musicroutes.com/route.php?musicianName=Stephin+Merritt&musicianName2=Sid+Vicious" target="_blank">Stephine Merritt to <strong>Sid Vicious</strong></a>.</p>
+<p><strong>Stephin Merritt</strong> fans have <a href="http://stephinsongs.wiw.org/game.html" target="_blank">a game that all fan sites should play</a>.</p>
