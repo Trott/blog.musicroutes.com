@@ -24,10 +24,9 @@ tags:
 - jon carin
 comments: []
 ---
-<p><img class="alignleft size-medium wp-image-116" title="A Momentary Lapse Of Reason" src="http://blog.musicroutes.com/wp-content/uploads/2008/09/alapse.jpg" alt="" width="200" height="200" />You'd think of all the bands out there with an insane following that would meticulously detail who played what on each track, <strong>Pink Floyd</strong> would be near the top.  But I can't find authoritative information on <em>Momentary Lapse of Reason</em>.  Granted, that may be their most-loathed release.</p>
+<p>You'd think of all the bands out there with an insane following that would meticulously detail who played what on each track, <strong>Pink Floyd</strong> would be near the top.  But I can't find authoritative information on <em>Momentary Lapse of Reason</em>.  Granted, that may be their most-loathed release.</p>
 <p>Still, you'd think the detailed fan sites and other sources of information would mostly agree on stuff.</p>
 <p><a href="http://en.wikipedia.org/wiki/The_Dogs_of_War_(Pink_Floyd_song)" target="_blank">Wikipedia says <strong>Jon Carin</strong> and <strong>Carmine Appice</strong> played on "Dogs Of War".<br />
 </a></p>
 <p>But <a href="http://thinkfloyd.free.fr/disco/lapse.htm" target="_blank">an admirably-detailed French site says no Carin on keyboards but <strong>Bob Ezrin</strong> instead, and maybe it was Appice on drums or maybe it was <strong>Jim Keltner</strong> or <strong>Nick Mason</strong> instead.</a></p>
 <p>And as I check more sources, I get more conflicting stories (although it is at least becoming clear that Appice did play on "Dogs Of War" and nothing else from the album).</p>
-<p>If you can straighten out who played what on one or more tracks from this record, <a href="http://musicroutes.com/contact.php" target="_blank">drop me a line</a> or leave a comment here.</p>
