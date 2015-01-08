@@ -68,7 +68,6 @@ comments:
     from the liner notes.  I suspect not.  Maybe it's discussed as an aside in a random
     interview with someone involved in the recording or something like that?
 ---
-<p><img class="alignleft size-medium wp-image-110" title="Painted From Memory" src="http://blog.musicroutes.com/wp-content/uploads/2008/09/apainted.jpg" alt="" width="200" height="200" />The credits for the <strong>Elvis Costello</strong> and <strong>Burt Bacharach</strong> collaboration Painted From Memory do not make it clear which tracks (for example) have strings and which do not.  I hear strings on "In The Darkest Place" but not on "Toledo".</p>
+<p>The credits for the <strong>Elvis Costello</strong> and <strong>Burt Bacharach</strong> collaboration Painted From Memory do not make it clear which tracks (for example) have strings and which do not.  I hear strings on "In The Darkest Place" but not on "Toledo".</p>
 <p>This make me wonder if there really is electric guitar on each track, if there really are two percussionists instead of one or zero on each track, and so on.</p>
 <p>Maybe a version with bonus tracks or something has more detailed track-by-track credits?  Or maybe some interview with Costello or Bacharach reveals the personnel on one or more tracks in more detail?  Heck, maybe you were involved in the recording and know some details?</p>
-<p>If you can help, leave a comment or <a href="http://musicroutes.com/contact.php" target="_blank">drop me a line</a>!</p>
