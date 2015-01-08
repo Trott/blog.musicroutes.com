@@ -20,5 +20,3 @@ comments: []
 ---
 <p><a href="http://musicroutes.com/">The site</a> is now usable!  Go see what musician is connected to what musician based on who they've recorded with.</p>
 <p>This site is sort of <a href="http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon">Six Degrees Of Kevin Bacon</a> for musicians.  Let's call it "Six Degrees Of David Bowie."</p>
-<p>If you find a particularly long chain of musicians, you'll have yourself a fine mix tape.  Most of the songs in the database have a link to listen to them using <a href="http://www.rhapsody.com/">Rhapsody</a>.</p>
-<p>The site will also be useful as a collection of discographical data available nowhere else online.  More on that later.  For now, <a href="http://musicroutes.com/">go make some routes</a> and <a href="http://musicroutes.com/add.php">tell me about data I'm missing</a>!</p>
