@@ -20,4 +20,4 @@ tags:
 - john doe
 comments: []
 ---
-<p><img class="alignleft size-medium wp-image-123" title="No Questions Asked" src="http://blog.musicroutes.com/wp-content/uploads/2008/10/aflesh.jpg" alt="" width="240" height="240" />Hey, you!  Yes, you!  Any idea which tracks on the Flesh Eaters' <em>No Questions Asked</em> feature John Doe?  He's not on every track, is he?  How about their <em>A Minute To Pray, A Second To Die</em>?</p>
+<p>Hey, you!  Yes, you!  Any idea which tracks on the Flesh Eaters' <em>No Questions Asked</em> feature John Doe?  He's not on every track, is he?  How about their <em>A Minute To Pray, A Second To Die</em>?</p>
