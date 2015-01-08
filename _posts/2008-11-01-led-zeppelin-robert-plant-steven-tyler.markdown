@@ -31,4 +31,3 @@ comments: []
 <p>I suspect the route could be shortened if reliable track-by-track personnel data were available for <em>The Honeydrippers: Volume One</em>.</p>
 <p><strong>UPDATE: </strong>The good news is I did it!  Now it's only five steps and the Cher track is not in the path.  The bad news is that "The Dogs Of War" (winner, according to Wikipedia, of a <strong>Pink Floyd</strong> fanzine's poll on which of Pink Floyd's songs is their worst) is in the route.</p>
 <p><strong>UPDATE:</strong> The route is now down to two steps.  But the link is the <a href="http://ca.youtube.com/watch?v=VJN3u1wAWIk" target="_blank">Canadian contribution to <em>We Are The World</em></a> (called "Tears Are Not Enough" and credited to <strong>Northern Lights</strong>).  This just keeps getting weirder.</p>
-<p><small><em>Photo: <a href="http://www.flickr.com/photos/mickyates/185660593/" target="_blank">mick y</a></em></small></p>
