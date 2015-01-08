@@ -19,7 +19,7 @@ tags:
 - beatles
 comments: []
 ---
-<p><img class="alignleft size-medium wp-image-120" title="Revolver" src="http://blog.musicroutes.com/wp-content/uploads/2008/10/arevolver-300x299.jpg" alt="" width="300" height="299" />Oh, for the love of apple scruffs, can't we have reasonably reliable and consistent performance information freely available for <strong>The Beatles</strong>?!</p>
+<p>Oh, for the love of apple scruffs, can't we have reasonably reliable and consistent performance information freely available for <strong>The Beatles</strong>?!</p>
 <p>Let's look at "Good Day Sunshine".</p>
 <p><a href="http://www.thebeatleshk.com/Discography/Albums/Revolver.html" target="_blank">http://www.thebeatleshk.com/Discography/Albums/Revolver.html</a> says George Harrison played lead guitar on "Good Day Sunshine".  There's no guitar at all on that recording as far as I can tell.  (Maybe it's referring to guitar that was recorded and then not used?)</p>
 <p><a href="http://perso.wanadoo.es/sissu/revolv.htm" target="_blank">http://perso.wanadoo.es/sissu/revolv.htm</a> says Ringo sang lead on "Good Day Sunshine".  Um, no.</p>
