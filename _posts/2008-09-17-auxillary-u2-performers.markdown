@@ -22,4 +22,4 @@ tags:
 - flood
 comments: []
 ---
-<p><img class="alignleft size-medium wp-image-99" title="The Joshua Tree" src="http://blog.musicroutes.com/wp-content/uploads/2008/09/athe_joshua_tree_re-issue.png" alt="" width="300" height="300" />Which <strong>U2 </strong>tracks have <strong>Brian Eno</strong> in a performer role (rather than or in addition to production and engineering)?  <strong>Daniel Lanois</strong>?  <strong>Flood</strong>?  I'm most interested in <em>The Joshua Tree</em> as that record's liner notes do not have that information.  I believe <em>Achtung Baby</em> and other later recordings might have more forthcoming liner notes.</p>
+<p>Which <strong>U2 </strong>tracks have <strong>Brian Eno</strong> in a performer role (rather than or in addition to production and engineering)?  <strong>Daniel Lanois</strong>?  <strong>Flood</strong>?  I'm most interested in <em>The Joshua Tree</em> as that record's liner notes do not have that information.  I believe <em>Achtung Baby</em> and other later recordings might have more forthcoming liner notes.</p>
