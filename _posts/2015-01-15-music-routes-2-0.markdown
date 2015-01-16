@@ -12,4 +12,6 @@ I've rewritten [Music Routes](http://musicroutes.com/) to generate playlists bas
 
 On [the home screen](http://musicroutes.com/), you are asked to enter a musical artist. You will be presented with a track that you can accept or reject. If you reject a track, another is found. If you accept it, then a performer from that track is selected to connect that track to the next track. Again, you can accept or reject the suggested track.
 
-It is simple, but it can also be fascinating. I have discovered a lot of great music with this tool. I've also discovered a lot of trivia that can be used to annoy my friends. "The drummer on this Megadeth record also played with Paul Anka! And Frank Zappa! And Herbie Hancock!"
+It is simple, but it can also be fascinating. I have discovered a lot of great music with this tool. I've also discovered a lot of trivia that can be used to annoy my friends. "The drummer on this *Megadeth* record also played with *Paul Anka*! And *Frank Zappa*! And *Herbie Hancock*!"
+
+(If you're wondering, that would be *[Vinnie Colaiuta](http://musicroutes.com/?q=Vinnie+Colaiuta)*.)
